@@ -1,1 +1,1 @@
-# CS-1400
+# Taking a python programing course and will post projects in here. 
